@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bada4711.chunk.css",
+    "main.js": "/portfolio/static/js/main.f685a73d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f685a73d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.37656756.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.37656756.js.map",
+    "static/css/2.dc3c9708.chunk.css": "/portfolio/static/css/2.dc3c9708.chunk.css",
+    "static/js/2.ba0889d6.chunk.js": "/portfolio/static/js/2.ba0889d6.chunk.js",
+    "static/js/2.ba0889d6.chunk.js.map": "/portfolio/static/js/2.ba0889d6.chunk.js.map",
+    "static/js/3.0ab3aa5e.chunk.js": "/portfolio/static/js/3.0ab3aa5e.chunk.js",
+    "static/js/3.0ab3aa5e.chunk.js.map": "/portfolio/static/js/3.0ab3aa5e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.dc3c9708.chunk.css.map": "/portfolio/static/css/2.dc3c9708.chunk.css.map",
+    "static/css/main.bada4711.chunk.css.map": "/portfolio/static/css/main.bada4711.chunk.css.map",
+    "static/js/2.ba0889d6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ba0889d6.chunk.js.LICENSE.txt",
+    "static/media/CemAlemdar2021_resume.13b16b67.pdf": "/portfolio/static/media/CemAlemdar2021_resume.13b16b67.pdf",
+    "static/media/MarmeladeIconCircle.32481b7f.png": "/portfolio/static/media/MarmeladeIconCircle.32481b7f.png",
+    "static/media/TM-main-page.aebc6402.png": "/portfolio/static/media/TM-main-page.aebc6402.png",
+    "static/media/about.aee0f771.png": "/portfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/portfolio/static/media/avatar.5852f40f.svg",
+    "static/media/cemgraphics.e0ff5584.png": "/portfolio/static/media/cemgraphics.e0ff5584.png",
+    "static/media/emotion-matcher.15c3d63e.jpg": "/portfolio/static/media/emotion-matcher.15c3d63e.jpg",
+    "static/media/hci.e03a74d3.jpg": "/portfolio/static/media/hci.e03a74d3.jpg",
+    "static/media/home-main.541f8179.svg": "/portfolio/static/media/home-main.541f8179.svg",
+    "static/media/style.css": "/portfolio/static/media/wallpaper-nice-1080.3925ede1.jpg",
+    "static/media/rhythm-of-the-night.501ea12b.png": "/portfolio/static/media/rhythm-of-the-night.501ea12b.png",
+    "static/media/stick-it-cover.0bcb53bd.png": "/portfolio/static/media/stick-it-cover.0bcb53bd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37656756.js",
+    "static/css/2.dc3c9708.chunk.css",
+    "static/js/2.ba0889d6.chunk.js",
+    "static/css/main.bada4711.chunk.css",
+    "static/js/main.f685a73d.chunk.js"
+  ]
+}
