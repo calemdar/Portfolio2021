@@ -27,7 +27,7 @@ function Projects() {
             <ProjectCard
               imgPath={TMBackground}
               isBlog={false}
-              title="Chatify"
+              title="Tune Mountain"
               description="An audiovisual snowboarding game where the music drives the level. Pick your music and slide down your Tune Mountain."
               link="https://www.tune-mountain.com"
             />
@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Graphical Simulations"
               description="Simulations made using GLSL and HLSL. Some of the projects may require a smaller window size to work better."
-              link="https://cemgraphics.github.io/simulation/index.html"
+              link="https://cemgraphics.github.io/"
             />
           </Col>
 
