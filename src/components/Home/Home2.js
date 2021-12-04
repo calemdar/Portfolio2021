@@ -27,22 +27,22 @@ function Home2() {
               </i>
               <br />
               <br />
-              My professional goals are:
-              <ul>
-                <li><b className="purple">Designing and implementing immersive systems</b></li>
-                <li><b className="purple">Reacing a wide audience</b></li>
-                <li><b className="purple">Creating a link between Audio, Visual and Kinesthetic experiences</b></li>
-              </ul>
-              <br />
-              <br />
               I bend technology
               <i>
                 <b className="purple"> to create anything I want</b>
               </i>
               &nbsp; mostly using
               <i>
-                <b className="purple"> Unity, Unreal, C++, Arduino</b>
+                <b className="purple"> Unity, Unreal, NPM, Arduino</b>
               </i>
+              <br />
+              <br />
+              My professional goals are:
+              <ul>
+                <li><b className="purple">Designing and implementing immersive systems</b></li>
+                <li><b className="purple">Reaching a wide audience</b></li>
+                <li><b className="purple">Creating a link between Audio, Visual and Kinesthetic experiences</b></li>
+              </ul>
             </p>
           </Col>
           <Col md={4} className="myAvtar">

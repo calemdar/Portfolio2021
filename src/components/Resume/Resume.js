@@ -92,12 +92,6 @@ function Resume() {
                 "Mentored game design students making a game for a game jam organized by the Turkish Game Developers Association",
               ]}
             />
-            <Resumecontent
-              title="Game Jam Mentor [TOGEV]"
-              content={[
-                "Mentored game design students making a game for a game jam organized by the Turkish Game Developers Association",
-              ]}
-            />
           </Col>
         </Row>
         <Row style={{ justifyContent: "center", position: "relative" }}>

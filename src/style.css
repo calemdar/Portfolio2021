@@ -364,7 +364,6 @@ html {
   height: 40px !important;
   text-align: center !important;
   font-size: 1.2em !important;
-  line-height: 2em !important;
   background: rgba(255, 255, 255, 0.972) !important;
   border-radius: 50% !important;
   transition: 0.5s !important;
@@ -640,7 +639,7 @@ html {
   }
 }
 .resume .resume-title {
-  font-size: 2em;
+  font-size: 2.4em;
   font-weight: 700;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -654,8 +653,8 @@ html {
 }
 
 .resume .resume-item .resume-title {
-  line-height: 18px;
-  font-size: 0.9em;
+  line-height: normal;
+  font-size: 1.2em;
   background: #5234795d;
   padding: 8px 15px;
   display: inline-block;
@@ -670,6 +669,7 @@ html {
 
 .resume .resume-item ul li {
   padding-bottom: 10px;
+  font-size: 0.9em;
   list-style: none;
 }
 

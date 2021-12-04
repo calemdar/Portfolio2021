@@ -9,7 +9,7 @@ function ProjectCards(props) {
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
-        <Card.Text style={{ textAlign: "justify" }}>
+        <Card.Text>
           {props.description}
         </Card.Text>
         <Button variant="primary" href={props.link} target="_blank">
